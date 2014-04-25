@@ -1,6 +1,4 @@
-Law of Attraction Bullshit Manifester
-
-Based on the New Age Bullshit Generator by Seb Pearce
+Based on the New Age Bullshit Generator 
 ==========================
 
 Does what it says on the box :)
